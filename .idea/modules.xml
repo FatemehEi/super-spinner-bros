@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SuperSpinnerBros.iml" filepath="$PROJECT_DIR$/SuperSpinnerBros.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-spinner-bros.iml" filepath="$PROJECT_DIR$/super-spinner-bros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/super-spinner-bros-app.iml" filepath="$PROJECT_DIR$/app/super-spinner-bros-app.iml" />
     </modules>
   </component>
 </project>
