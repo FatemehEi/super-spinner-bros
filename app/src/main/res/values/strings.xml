@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SuperSpinnerBros</string>
+    <string name="_B1">b1</string>
+    <string name="_B2">b2</string>
 </resources>
